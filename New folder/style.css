@@ -1,0 +1,29 @@
+.FieldInfo{
+    color:red;
+    
+    font-family: Bitter,Georgia,"Times New Roman",Times,serif;
+    font-size: 1em;
+}
+div{
+    width: 500px;
+    margin-left: 360px;
+}
+input[type="text"],textarea{
+    border: 1px solid dashed;
+    background-color: rgb(221,216,212);
+    width: 480px;
+    padding: .5em;
+    font-size: 1.0em;
+}
+input[type="submit"]{
+    color: white;
+    background-color: greenyellow
+    ;
+    border: 5px solid;
+    /* border-bottom-left-radius: 35px;
+    border-top-left-radius: 35px; */
+    border-radius:35px ;
+    font-weight: bold;
+    float: left;
+
+}
